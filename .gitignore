@@ -52,3 +52,6 @@ wheels/
 
 # Image folder for image processing
 images/
+
+# .yaml file for faces model
+.yaml
