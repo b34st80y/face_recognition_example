@@ -49,3 +49,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Image folder for image processing
+images/

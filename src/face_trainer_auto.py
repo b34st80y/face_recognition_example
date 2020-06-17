@@ -5,7 +5,7 @@ import pickle
 print("Training...")
 
 face_encodings = {}
-image_dir = "images"
+image_dir = "../images"
 
 # Traverse the image_dir directory and encode each face
 for root, dirs, files, in os.walk(image_dir):
