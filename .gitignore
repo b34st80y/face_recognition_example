@@ -54,4 +54,4 @@ wheels/
 images/
 
 # .yaml file for faces model
-.yaml
+*.yaml
